@@ -2,7 +2,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Tushar Bochare 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Tushar Bochare 👋
-[![Linkedin Badge](https://img.shields.io/badge/-tusharbochare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-bochare/)](https://www.linkedin.com/in/tushar-bochare/)
+[![Linkedin Badge](https://img.shields.io/badge/-tusharbochare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharbochare/)](https://www.linkedin.com/in/tushar-bochare/)
 [![Gmail Badge](https://img.shields.io/badge/-tusharbochare96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tusharbochare96@gmail.com)](mailto:tusharbochare96@gmail.com) 
 
 
